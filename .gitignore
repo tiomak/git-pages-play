@@ -1,0 +1,23 @@
+node_modules/
+build/
+ ../../.DS_Store
+        ../../JSkata/
+        ../../REACT/
+        ../../bonnier-illv/
+        ../
+        ../../css-grid/
+        ../../dashboard-assignment/
+        ../../dashboard-fooBar/
+        ../../databases/
+        ../../forms/
+        ../../gsap/
+        ../../infinitescroll-json/
+        ../../infographics/
+        ../../javaScript-exercises/
+        ../../parcel-npm/
+        ../../sass/
+        ../../submissions/
+        ../../svg/
+        ../../terminal-exe/
+        ../../vectors/
+        ../../vscode/
